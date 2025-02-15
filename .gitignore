@@ -9,6 +9,7 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+/idea/
 *.iws
 *.iml
 *.ipr
@@ -38,5 +39,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### NetBeans ###
+### Node_ ###
 .node_modules
